@@ -18,13 +18,6 @@ Power Supply
 Cloud  : ThingSpeak
 Optional: Actuators ( lights) for control actions
 
-## Project Overview
-
-![image](https://github.com/Kishoran/IoT-Sensor-Monitoring-and-Control-System/assets/105552537/a0743962-459d-4148-86bb-f06ecb0ecfda)
-
-![WhatsApp Image 2023-08-04 at 17 31 23](https://github.com/Kishoran/IoT-Sensor-Monitoring-and-Control-System/assets/105552537/09a43925-7041-4157-813d-b4624c2cc5b9)
-
-
 
 
 ## Usage
